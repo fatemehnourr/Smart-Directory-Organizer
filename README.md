@@ -1,7 +1,5 @@
 # Smart Directory Organizer
 
-#### Video Demo: <https://youtu.be/OOJmmE7PB-4?si=0_lSrHn9KjEUviue>
-
 ### Description
 
 The Smart Directory Organizer is a Python-based tool designed to help you effortlessly organize files within a specified directory by automatically sorting them into user-defined folders based on their file extensions. This project is aimed at improving productivity by maintaining a tidy directory structure, which is particularly useful for managing downloads or workspace directories containing mixed file types.
